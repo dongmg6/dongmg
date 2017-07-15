@@ -1,0 +1,173 @@
+@charset "UTF-8";
+
+/*------------------------------ 页头页脚 -----------------------------*/
+body { background: #fff !important; }
+#vip03Top { width: 100%; min-width: 1180px; height: 80px; }
+#vip03Top .top { width: 1180px; height: 80px; margin: auto; }
+#vip03Top .top .title { display: block; width: 200px; height: 60px; overflow: hidden; padding-top: 8px; }
+#vip03Top .top .title img { max-width: 200px; max-height: 60px; }
+#vip03Top .top ul li { float: left; }
+#vip03Top .top ul li a { display: block; height: 34px; line-height: 34px; font-size: 14px; color: #666; margin: 28px 20px 0; border-bottom: 1px solid #fff; }
+#vip03Top .top ul li a.on { border-bottom: 1px solid #ff657e; color: #ff657e; }
+#vip03Top .top ul li a:hover { border-bottom: 1px solid #ff657e; color: #ff657e; }
+#vip03Footer { height: 50px; line-height: 50px; text-align: center; width: 100%; min-width: 1180px; background: #f0f0f0; color: #666; font-size: 12px; }
+#vip03Footer span { padding-right: 20px; }
+.shadowDiv { width: 100%; min-width: 1180px; -webkit-box-shadow: 0 2px 4px  rgba(155, 143, 143, .3) inset; box-shadow: 0 2px 4px rgba(155, 143, 143, .3) inset; height: 10px; z-index: 0; }
+.shadownext { margin-top: -3px; z-index: 1; }
+
+/*------------------------------------  banner ---------------------------------------*/
+.vip03Banner { width: 100%; min-width: 1180px; height: 500px; overflow: hidden; position: relative; z-index: 1; margin: auto; }
+.vip03Banner .bd { width: 10000px; height: 500px; position: absolute; z-index: 1; left: 0; top: 0; }
+.vip03Banner .bd li { float: left; }
+.vip03Banner .bd li a { display: block; }
+.vip03Banner .hd { position: absolute; z-index: 2; left: 50%; bottom: 10px; margin-left: -40px; }
+.vip03Banner .hd li { float: left; margin-right: 10px; height: 2px; width: 10px; cursor: pointer; background: #ccc; }
+.vip03Banner .hd li:hover { background: #ff657e;/*padding-right: 20px;*/ }
+.vip03Banner .hd .cur { background: #ff657e; padding-right: 20px; }
+
+/*---------------------------------- 公司介绍 -----------------------------------------*/
+.jianJie { width: 100%; min-width: 1180px; position: relative; z-index: 1; height: 480px; background: #f5f5f5; }
+.jianJie img { width: 520px; height: 380px; position: absolute; left: 50%; margin-left: -590px; z-index: 1; top: 50px; }
+.jianJie .text { width: 590px; height: 380px; position: absolute; left: 50%; z-index: 1; top: 50px; overflow: hidden; }
+.jianJie .text h3 { line-height: 96px; font-size: 18px; color: #666; text-align: center; }
+.jianJie .text div { font-size: 14px !important; color: #666 !important; line-height: 28px !important; }
+.jianJie .text .more { z-index: 0; font-size: 12px; color: #666; text-align: center; line-height: 38px; border: 1px solid #ccc; display: block; width: 140px; height: 38px; margin: 80px 0 0 230px; text-transform: uppercase; letter-spacing: 1px; position: relative; position: relative; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
+.jianJie .text .more:after { content: ''; position: absolute; z-index: -1; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; width: 0%; height: 100%; top: 0; left: 0; background: #333; }
+.jianJie .text .more:hover { color: #e5e5e5; border: 1px solid #F5F5F5; }
+.jianJie .text .more:hover:after { width: 100%; }
+
+/*---------------------------------- 联系方式，留言 -----------------------------------------*/
+.lianxi { width: 100%; min-width: 1180px;background: #f5f5f5;}
+.lianxi_mode{width: 1180px;margin: auto;padding-bottom: 75px; }
+.lianxi_mode h3{line-height: 136px;font-size: 18px;color: #666; height: 136px;}
+.lianxi_mode .mode01{width: 308px;height:56px;padding:0 20px 0 65px;background:url(../../../../images/space/c/vip03/icon.png) 0 4px no-repeat;}
+.lianxi_mode .mode01 p {line-height: 28px;font-size: 14px;color: #666;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;height: 28px;}
+.lianxi_mode .mode02{background-position: 0 -57px;}
+.lianxi_mode .mode03{background-position: 0 -116px;}
+.contact{background: #fff;height:720px;}
+.mode_title{padding:128px 0;}
+.mode_title h3{line-height: 36px;font-size: 18px;color: #666; height: 36px;text-align: center;}
+.mode_title h4{color: #999;text-align: center;}
+
+.friend{ border-top:1px solid #e6e6e6;}
+.friend_link{width: 1180px;margin: auto;overflow:hidden;}
+.friend_link ul li{float: left;/*width: 12.5%; */position: relative;z-index: 1;height: 64px;}
+.friend_link ul li a{display: block;text-align: center;font-size: 14px;color: #666;padding:0 15px;height: 64px;line-height: 64px;}
+.friend_link ul li i{position: absolute;top:23px;right: -1px;border-right:1px solid #e6e6e6;z-index: 2;height:18px;}
+.friend_link ul li a:hover{color: #ff657e;}
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------- 产品列表页 ------------------------------------*/
+.v3_ListWrap { width: 1180px; height: auto; margin: 0 auto; padding: 50px 0; min-height: 600px; }
+.v3ProNav { margin-bottom: 40px; }
+.v3ProNav li { float: left; height: 36px; line-height: 36px; color: #999; font-size: 14px; margin-right: 12px; text-align: center; transition: background 0.5s; -webkit-transition: background 0.5s; -moz-transition: background 0.5s; -o-transition: background 0.5s; }
+.v3ProNav li a { display: block; color: #999; padding: 0 10px; min-width: 60px; }
+.v3ProNav li.cur { background: #333; }
+.v3ProNav li.cur a { color: #fff; }
+.v3ProNav li:hover { background: #333; }
+.v3ProNav li:hover a { color: #fff; }
+
+/*首页产品展示*/
+.indexWrap { padding: 35px 0 0 0; }
+.indexWrap h3 { font-size: 18px; color: #666; }
+.indexWrap .v3ProNav { margin-bottom: 20px; }
+.v3ProList { width: 1200px; height: auto; margin-left: -20px; }
+.v3ProList dl { width: 280px; margin: 0 0 33px 20px; float: left; transition: box-shadow 0.5s; -webkit-transition: box-shadow 0.5s; -moz-transition: box-shadow 0.5s; -o-transition: box-shadow 0.5s; }
+.v3ProList dl dt { width: 280px; height: 280px; overflow: hidden; }
+.v3ProList dl dt img { width: 280px; height: 280px; transition: transform 1s; -webkit-transition: transform 1s; -moz-transition: transform 1s; -o-transition: transform 1s; }
+.v3ProList dl dd.v3Pro_dd01 { height: 48px; font-size: 14px; color: #666; line-height: 24px; margin: 16px 0; text-overflow: -o-ellipsis-lastline; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.v3ProList dl dd.v3Pro_dd01 a { color: #666; }
+.v3ProList dl dd.v3Pro_dd02 { width: 100%; height: 1px; background: #e1e1e1; }
+.v3ProList dl dd.v3Pro_dd02 span { width: 0; height: 1px; display: block; background: #646464; transition: width 0.5s; -webkit-transition: width 0.5s; -moz-transition: width 0.5s; -o-transition: width 0.5s; }
+.v3ProList dl dd.v3Pro_dd03 { font-size: 18px; color: #ff657e; line-height: 28px; margin-top: 8px; }
+.v3ProList dl dd.v3Pro_dd03 em { font-size: 14px; }
+.v3ProList dl:hover dt { box-shadow: 0px 5px 10px rgba(4, 0, 0, 0.1); }
+.v3ProList dl:hover dt img { transform: scale(1.2, 1.2); }
+.v3ProList dl:hover dd.v3Pro_dd01 a { color: #333; }
+.v3ProList dl:hover dd.v3Pro_dd02 span { width: 100%; }
+
+/* 页码 */
+.v3_ListWrap .page { margin: 20px 0 40px; display: flex; display: -webkit-flex; }
+.v3_ListWrap .page ul { width: auto; margin: 0 auto; }
+.v3_ListWrap .page ul li { padding-right: 5px; }
+.v3_ListWrap .page ul li a { width: 40px; height: 30px; line-height: 30px; color: #666; border: 0; background: none; }
+.v3_ListWrap .page ul li a:hover { background: #333; color: #fff; }
+.v3_ListWrap .page .page_on { background: #333; color: #fff; }
+
+/* --------------------------------  新闻列表页 ----------------------------*/
+@font-face { font-family: "PINGFANG REGULAR"; src: url("../../../../font/PINGFANG REGULAR.TTF"); }
+.v3NewList ul { width: 520px; float: left; margin: 10px 0 40px; }
+.v3NewList ul:nth-child(even) { float: right; }
+.v3NewList ul li.v3Ne_li01 { height: 40px; line-height: 40px; margin-bottom: 10px; font-family: "PINGFANG REGULAR"; color: #999; font-size: 24px; }
+.v3NewList ul li.v3Ne_li01 em { font-size: 12px; margin-left: 6px; color: #b2b2b2; }
+.v3NewList ul li.v3Ne_li02 { width: 100%; height: 1px; background: #e6e6e6; }
+.v3NewList ul li.v3Ne_li02 span { width: 0; height: 1px; display: block; background: #666; transition: width 0.5s; -webkit-transition: width 0.5s; -moz-transition: width 0.5s; -o-transition: width 0.5s; }
+.v3NewList ul li.v3Ne_li03 { width: 100%; height: 30px; line-height: 30px; margin-top: 12px; color: #000; font-size: 16px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.v3NewList ul li.v3Ne_li03 a { color: #333; }
+.v3NewList ul li.v3Ne_li04 { width: 100%; height: 48px; line-height: 24px; color: #666; font-size: 12px; margin-top: 10px; text-overflow: -o-ellipsis-lastline; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.v3NewList ul:hover li.v3Ne_li02 span { width: 100%; }
+.v3NewList ul:hover li.v3Ne_li03 a { color: #000; }
+.v3NewList ul:hover li.v3Ne_li04 { color: #333; }
+
+/*首页新闻*/
+.index_news { width: 1180px; margin: auto; }
+.index_news h3 { font-size: 18px; color: #666; line-height: 120px; }
+.index_news h3 a { z-index: 0; margin-top: 40px; float: right; font-size: 12px; color: #666; text-align: center; line-height: 34px; border: 1px solid #ccc; display: block; width: 100px; height: 34px; text-transform: uppercase; letter-spacing: 1px; position: relative; position: relative; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
+.index_news h3 a:after { content: ''; position: absolute; z-index: -1; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; width: 0%; height: 100%; top: 0; left: 0; background: #333; display: block; }
+.index_news h3 a:hover { color: #e5e5e5; border: 1px solid #fff; }
+.index_news h3 a:hover:after { width: 100%; }
+
+/* -----------------------------------  无内容页面  -------------------------------------*/
+.null { width: 100%; margin: 80px 0 0 0px; text-align: center; }
+.null h3 { font-size: 24px; color: #ff657e; line-height: 40px; }
+.null p { font-size: 18px; color: #999; line-height: 40px; }
+
+
+/* ----------------------------------- 搜索结果页面 ------------------------------ */
+.v3ProNav nav {
+    height: 40px;
+    line-height: 40px;
+    margin-top:-30px;
+}
+.v3ProNav nav a {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    font-size: 16px;
+    color: #333;
+}
+.v3ProNav nav a.active,.v3ProNav nav a:hover {
+    color: #ff657e;
+}
+.v3ProNav nav span em{
+    color: #ff657e;
+    padding:0 5px;
+}
+
+
+/* --------------------------------  动画之前样式 ----------------------------*/
+
+/* 首页 */
+.vip03Banner.no { opacity: 0; }
+.indexWrap.no .v3ProList { height: 864px; overflow: hidden; }
+.v3_ListWrap.no .v3ProList dl { opacity: 0; margin-top: 150px; }
+.jianJie.no { overflow: hidden; }
+.jianJie.no img { opacity: 0; margin-top: 150px; }
+.jianJie.no .text { opacity: 0; margin-top: 150px; }
+.index_news.no .v3NewList { height: 402px; overflow: hidden; }
+.index_news.no .v3NewList ul { opacity: 0; margin-top: 150px; }
+.lianxi.no { overflow: hidden; }
+.lianxi.no .lianxi_left { opacity: 0; margin-top: 150px; }
+.lianxi.no .lianxi_right { opacity: 0; margin-top: 150px; }
+
+/* 新闻列表页 */
+.v3_ListWrap.no .v3NewList ul { opacity: 0; margin-top: 150px; }
