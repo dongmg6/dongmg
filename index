@@ -1,0 +1,560 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="网站模板,自定义模板,摄影,摄像">
+<meta name="description" content="模板网站生成">
+<meta name="author" content="YY-MO">
+<meta content="yes" name="apple-mobile-web-app-capable" />
+<meta content="black" name="apple-mobile-web-app-status-bar-style" />
+<meta content="telephone=no" name="format-detection" />
+<link rel="stylesheet" type="text/css" href="http://mo004_4097.mo4.line1.uemo.net/templates/ue_content/templates/css/lib.css">
+<link rel="stylesheet" type="text/css"  href="http://mo004_4097.mo4.line1.uemo.net/templates/ue_content/templates/css/style.css">
+<link rel="stylesheet" type="text/css"  href="http://resources.jsmo.xin/templates/upload/4097/4097.css">
+<script type="text/javascript" src="http://code.uemo.net/script/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="http://mo004_4097.mo4.line1.uemo.net/templates/ue_content/templates/script/org.min.js" data-main="indexMain"></script>
+<title>mo004_4097 - 设计类模板网站</title>
+</head><body >
+<div class="bodyMask"> </div>
+<div id="header" class="index_nav">
+
+  
+   <div class="content"><a href="http://mo004_4097.mo4.line1.uemo.net/" id="logo"><img src="http://resources.jsmo.xin/templates/upload/4097/201709/1505286359882.png" height="40" /></a>
+    <ul id="nav">
+            <li class="navitem"><a class="nav-a  active " href="http://mo004_4097.mo4.line1.uemo.net/" target="_self"><span  data-title="首页">首页</span></a></li>
+            <li class="navitem"><a class="nav-a " href="http://mo004_4097.mo4.line1.uemo.net/project/" target="_self"><span data-title="作品展示">作品展示</span></a></li>
+            <li class="navitem"><a class="nav-a " href="javascript:;" target=""><span data-title="关于">关于</span><i class="fa fa-angle-down"></i></a>        <ul class="subnav">
+                    <li><a href="http://mo004_4097.mo4.line1.uemo.net/page/about/" target="_self"><span data-title="A B O U T">A B O U T</span><i class="fa fa-angle-right"></i></a></li>
+                    <li><a href="http://mo004_4097.mo4.line1.uemo.net/page/72623/" target="_self"><span data-title="HISTORY">HISTORY</span><i class="fa fa-angle-right"></i></a></li>
+                    <li><a href="http://mo004_4097.mo4.line1.uemo.net/team/" target="_self"><span data-title="精英团队">精英团队</span><i class="fa fa-angle-right"></i></a></li>
+                  </ul>
+        </li>
+            <li class="navitem"><a class="nav-a " href="http://mo004_4097.mo4.line1.uemo.net/news/" target="_self"><span data-title="最新观点">最新观点</span></a></li>
+            <li class="navitem"><a class="nav-a " href="http://mo004_4097.mo4.line1.uemo.net/service/" target="_self"><span data-title="S E R V I C E">S E R V I C E</span></a></li>
+            <li class="navitem"><a class="nav-a " href="http://mo004_4097.mo4.line1.uemo.net/page/72626/" target="_self"><span data-title="CONTACT">CONTACT</span></a></li>
+          </ul>
+    <div class="clear"></div>
+  </div>
+    <a id="headSHBtn" href="javascript:;"><i class="fa fa-bars"></i></a>
+  </div>
+<div id="sitecontent">
+<div id="indexPage"><div id="mslider" class="module"><script type="text/javascript">$(function(){$("#mslider li video").each(function(index, element) {element.play();});})</script><ul class="slider" data-options-height="680" data-options-auto="1" data-options-mode="0" data-options-pause="4" data-options-ease="ease-out"><li style="background-image:url(http://resources.jsmo.xin/templates/upload/4097/201708/1504010302899.jpg)"  class="active"><div id="tempImage_0"></div><img style="display:none" src="http://resources.jsmo.xin/templates/upload/4097/201708/1504010302899.jpg"  alt=""/><div class="mask"></div><a target="_blank" href="https://www.baidu.com/"><div><p class="title ellipsis"></p></div><div class="sliderArrow fa fa-angle-down"></div></a></li><li style="background-image:url(http://resources.jsmo.xin/templates/upload/4097/201708/1504010144208.jpg)" ><div id="tempImage_1"></div><img style="display:none" src="http://resources.jsmo.xin/templates/upload/4097/201708/1504010144208.jpg"  alt=""/><div class="mask"></div><a target="_blank" href="https://www.baidu.com/"><div><p class="title ellipsis"></p></div><div class="sliderArrow fa fa-angle-down"></div></a></li><li style="background-image:url(http://resources.jsmo.xin/templates/upload/4097/201708/1504011160849.jpg)" ><div id="tempImage_2"></div><img style="display:none" src="http://resources.jsmo.xin/templates/upload/4097/201708/1504011160849.jpg"  alt=""/><div class="mask"></div><a target="_blank" href="https://www.baidu.com/"><div><p class="title ellipsis"></p></div><div class="sliderArrow fa fa-angle-down"></div></a></li></ul></div><div id="mproject" class="module">
+     <div class="bgmask"></div>
+   <div class="content layoutnone">
+       <div class="header wow">
+          <p class="title">作品展示</p>
+          <p class="subtitle">Profolio</p>
+       </div>
+              <div id="category" class="hide wow">
+                      <a href="http://mo004_4097.mo4.line1.uemo.net/project/cid/41389/">作品分类</a>
+                      <a href="http://mo004_4097.mo4.line1.uemo.net/project/cid/41388/">作品分类2</a>
+                      <a href="http://mo004_4097.mo4.line1.uemo.net/project/cid/41390/">其它</a>
+                  </div>
+              <!--yyLayout masonry-->
+       <div class="module-content" id="projectlist">
+                                 <div class="projectSubList" id="projectSubList_">
+               <div class="projectSubHeader">
+                   <p class="title"></p>
+                   <p class="subtitle"></p>
+               </div>
+               <div class="wrapper">
+                 <ul class="content_list" data-options-sliders="12" data-options-margin="20" data-options-ease="cubic-bezier(0.8,0.2,0.2,1)" data-options-speed="0.5">
+                                      <li id="projectitem_0" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173578/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504008964105.jpg" alt=" Ei vivero 品牌设计" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title"> Ei vivero 品牌设计</p>
+                                  <p class="subtitle">Real estate branding</p>
+                                  <p class="description hide">Expressing the Brand Essence Using Design is What Brings Brands Alive.We are an independent branding studio and creative business partner for clients who are ready for extraordinary solutions.To deliver such solutions we dig deep into a brand&rsquo;s essence and values, clearly understand them, and then inject them&hellip;&nbsp;查看原文</p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_1" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173576/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504009039725.jpg" alt="Madii &amp;amp; Dylan服装" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">Madii &amp;amp; Dylan服装</p>
+                                  <p class="subtitle"> Product branding</p>
+                                  <p class="description hide">And packaging design for &ldquo;17.5&deg;&rdquo;, a new series of Orange and Apple juice products intended for the China market, produced by &ldquo;Nongfu Spring&rdquo;, the leader in food and beverages of China.查看原文&nbsp;</p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_2" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173577/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504009291219.jpg" alt="El Semillero Real" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">El Semillero Real</p>
+                                  <p class="subtitle">全案策划</p>
+                                  <p class="description hide"></p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_3" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/174486/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504082346684.jpg" alt="Kate Photo Website" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">Kate Photo Website</p>
+                                  <p class="subtitle">网站设计</p>
+                                  <p class="description hide"></p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_4" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173584/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504011276449.jpg" alt="CARPOS" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">CARPOS</p>
+                                  <p class="subtitle">三维建模设计</p>
+                                  <p class="description hide"></p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_5" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/174500/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504084078719.jpg" alt="Wine, or maybe not?" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">Wine, or maybe not?</p>
+                                  <p class="subtitle">包装设计</p>
+                                  <p class="description hide"></p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_6" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173580/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504009576688.jpg" alt=" Buddhafields Corporate branding" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title"> Buddhafields Corporate branding</p>
+                                  <p class="subtitle">Chris Trivizas</p>
+                                  <p class="description hide">Travolta&reg;, currently under the guidance of the Liakos brothers, is one of the leading gastronomic destinations in Greece, when it comes to qualit&hellip;&nbsp;查看原文</p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_7" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173581/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504009312778.jpg" alt="BioVideo Corporate " width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">BioVideo Corporate </p>
+                                  <p class="subtitle">branding</p>
+                                  <p class="description hide">To play off the seasonal wintery release of Muskoka Brewery&#39;s Winterweiss, we illustrated the packaging as if a wild blizzard hit Muskoka, blowin&nbsp;查看原文</p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_8" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173582/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504009755258.jpg" alt="Fundacion Capital Corporate " width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">Fundacion Capital Corporate </p>
+                                  <p class="subtitle">branding</p>
+                                  <p class="description hide">We used Ka&scaron; beer&#39;s own characteristics in order to create the design&nbsp;that emphasized&nbsp;them best. As Ka&scaron; is&nbsp;pasteurized and unfiltered ...&nbsp;查看详细</p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_9" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/174501/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/150408464438.jpg" alt="OMAKASE ROOM BY TATSU" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">OMAKASE ROOM BY TATSU</p>
+                                  <p class="subtitle">品牌推广</p>
+                                  <p class="description hide"></p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_10" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173579/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/150400970111.jpg" alt="Gant " width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">Gant </p>
+                                  <p class="subtitle">Opening Invitation</p>
+                                  <p class="description hide">What do you see watching at the Siya bottle? Exactly! It is a fruit on a juice glass. Exploring the essential of Siya juice brand .&nbsp;查看原文&nbsp;</p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                      <li id="projectitem_11" class="projectitem wow">
+                     <a href="http://mo004_4097.mo4.line1.uemo.net/project/post/173583/" class="projectitem_content" target="_blank">
+                        <div class="projectitem_wrapper">
+                            <div class="project_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201708/1504082005860.jpg" alt="New Badoo identity" width="650" height="385"/></div>
+                            <div class="project_info">
+                               <div>
+                                  <p class="title">New Badoo identity</p>
+                                  <p class="subtitle">品牌推广 / 图形设计</p>
+                                  <p class="description hide"></p>
+                               </div>
+                            </div>
+                        </div>
+                      </a>
+                   </li>
+                                    </ul>
+              </div><!--wrapper-->
+            </div><!--projectSubList-->            
+            <a href="http://mo004_4097.mo4.line1.uemo.net/project/" class="more wow">MORE<i class="fa fa-angle-right"></i></a> 
+                               </div>
+       <!--projectlist-->
+       <div class="clear"></div>
+   </div>
+</div><!--project--><div id="mpage" class="module bgShow" style="background-image:url(http://resources.jsmo.xin/templates/upload/4097/201709/1505205545914.jpg);">
+    <div class="bgmask"></div>
+  <div class="content">
+    <div class="module-content">
+      <div class="wrapper">
+        <ul class="slider one">
+                    <li>
+            <div class="header wow" data-wow-delay=".2s">
+              <p class="title">A B O U T</p>
+                            <p class="subtitle">01</p>
+              </div>
+            <div class="des-wrap">
+              <p class="description wow" data-wow-delay=".3s">我们为200多名国际与本地客户的300余个产品提供了创新易用的设计方案，有效提升了产品体验和客户品牌价值，并引领市场不断树立新的体验标杆。我们整合商业思考美学价值及技术实现，用设计 ...</p>
+            </div>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/page/72622/" class="more wow" data-wow-delay=".5s">MORE<i class="fa fa-angle-right"></i></a>            <div class="fimg wow" style="background-image:url(http://resources.jsmo.xin/templates/upload/4097/201709/150527453114.png)"></div>
+            </li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="mnews" class="module">
+    <div class="bgmask"></div>
+  <div class="content layoutslider">
+    <div class="header wow">
+      <p class="title">最新观点</p>
+            <p class="subtitle">LATEST IDEAS</p>
+      </div>
+    <div class="module-content" id="newslist">
+      <div class="wrapper">
+        <ul class="content_list" data-options-sliders="2" data-options-margin="0" data-options-ease="cubic-bezier(0.5,0.2,0.2,1)" data-options-speed="0"  data-options-mode="horizontal" data-options-wheel="0">
+                    <li id="newsitem_0" class="wow newstitem left"><a class="newscontent" target="_blank" href="http://mo004_4097.mo4.line1.uemo.net/news/post/26594/">
+            <div class="news_wrapper">
+              <div class="newsbody">
+                <p class="date"><span class="md">2016<span>-</span></span><span class="year">12-18</span></p>
+                <p class="title">让世界聆听我们的声音</p>
+                <div class="separator"></div>
+                <p class="description">如果你是一个数字娱乐爱好者，烦恼没时间去逛美国 E3 展、日本东京电玩展以及德国科隆国际游戏展，那一定就不能错过 ChinaJoy ...</p>
+              </div>
+            </div>
+            <div class="newsimg" style="background-image:url(http://resources.jsmo.xin/templates/upload/4097/201709/1504582704843.jpg)"></div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/news/post/26594/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    <li id="newsitem_1" class="wow newstitem right"><a class="newscontent" target="_blank" href="http://mo004_4097.mo4.line1.uemo.net/news/post/26595/">
+            <div class="news_wrapper">
+              <div class="newsbody">
+                <p class="date"><span class="md">2016<span>-</span></span><span class="year">12-07</span></p>
+                <p class="title">如何提升品牌国际影响力—东道成功举办中国国际商标品牌节论坛</p>
+                <div class="separator"></div>
+                <p class="description">今天索尼“下一个主角”发布会，PS VR终于正式揭开神秘面纱，10月13日正式发售，售价2999元，7月28日正式开启预订产品专线首届中国“工匠杯”标识设计大赛作品展法国美术家协会雷米 ...</p>
+              </div>
+            </div>
+            <div class="newsimg" style="background-image:url(http://resources.jsmo.xin/templates/upload/380/201607/1469526628238.jpg)"></div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/news/post/26595/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    <li id="newsitem_2" class="wow newstitem left"><a class="newscontent" target="_blank" href="http://mo004_4097.mo4.line1.uemo.net/news/post/26593/">
+            <div class="news_wrapper">
+              <div class="newsbody">
+                <p class="date"><span class="md">2015<span>-</span></span><span class="year">11-23</span></p>
+                <p class="title">联合国教科文组织全球文化研讨大会</p>
+                <div class="separator"></div>
+                <p class="description">以前可能还需要一些资金，懂一点代码，才能进行互联网创业，到了今天，一个人单枪匹马就可以开始创业：只要你会写字 ...</p>
+              </div>
+            </div>
+            <div class="newsimg" style="background-image:url(http://resources.jsmo.xin/templates/upload/520/201609/1473844829648.jpg)"></div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/news/post/26593/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    <li id="newsitem_3" class="wow newstitem right"><a class="newscontent" target="_blank" href="http://mo004_4097.mo4.line1.uemo.net/news/post/26597/">
+            <div class="news_wrapper">
+              <div class="newsbody">
+                <p class="date"><span class="md">2015<span>-</span></span><span class="year">05-24</span></p>
+                <p class="title">公司受邀2015国美杯·智能生活全球创客设计大赛启动仪式</p>
+                <div class="separator"></div>
+                <p class="description">就像微软收购LinkedIn时，很多人想知道Google的反应一样，“雅虎之死”也让很多人将目光投向了这个与之并肩十几年的科技巨头 ...</p>
+              </div>
+            </div>
+            <div class="newsimg" style="background-image:url(http://resources.jsmo.xin/templates/upload/380/201607/1469527124428.jpg)"></div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/news/post/26597/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    <li id="newsitem_4" class="wow newstitem left"><a class="newscontent" target="_blank" href="http://mo004_4097.mo4.line1.uemo.net/news/post/26596/">
+            <div class="news_wrapper">
+              <div class="newsbody">
+                <p class="date"><span class="md">2014<span>-</span></span><span class="year">06-08</span></p>
+                <p class="title">​“合享新创”要做中国的专利数据库，帮企业发掘专利背后的价值</p>
+                <div class="separator"></div>
+                <p class="description">作为一个专利数据库，用户可在合享新创平台上实现专利信息搜索、分析和监控，特色在于用户可了解到的不仅仅是专利的基本信息，还包括 ...</p>
+              </div>
+            </div>
+            <div class="newsimg" style="background-image:url(http://resources.jsmo.xin/templates/upload/380/201607/1469526940739.jpg)"></div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/news/post/26596/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    <li id="newsitem_5" class="wow newstitem right"><a class="newscontent" target="_blank" href="http://mo004_4097.mo4.line1.uemo.net/news/post/26598/">
+            <div class="news_wrapper">
+              <div class="newsbody">
+                <p class="date"><span class="md">2014<span>-</span></span><span class="year">05-24</span></p>
+                <p class="title">国内语培市场如此广阔，让老外学点汉语怎么样？</p>
+                <div class="separator"></div>
+                <p class="description">为了学好英语，中国人基本使出了浑身解数，这样的强需求催生出热度不减的语培市场。那么如果情形反过来，让外国人学习汉语，还会产生一样的局面吗？</p>
+              </div>
+            </div>
+            <div class="newsimg" style="background-image:url(http://resources.jsmo.xin/templates/upload/380/201607/1469527005211.jpg)"></div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/news/post/26598/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                  </ul>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <a href="http://mo004_4097.mo4.line1.uemo.net/news/" class="more wow">MORE<i class="fa fa-angle-right"></i></a>
+    <div style="height:0">&nbsp;</div>
+  </div>
+</div>
+<div id="mservice" class="module">
+    <div class="bgmask"></div>
+  <div class="content layoutnone">
+    <div class="header wow fw" data-wow-delay=".1s">
+      <p class="title">S E R V I C E</p>
+            <p class="subtitle">04</p>
+      </div>
+    <div class="module-content fw" id="servicelist">
+      <div class="wrapper">
+        <ul class="content_list" data-options-sliders="4" data-options-margin="60" data-options-ease="1" data-options-speed="0.5">
+                    <li id="serviceitem_0" class="serviceitem wow"><a href="http://mo004_4097.mo4.line1.uemo.net/service/post/16896/" target="_blank">
+          	<p class="service_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201709/1504869666475.jpg" width="320" height="120" alt="设计研究"/></p>
+            <div class="service_info">
+              <p class="title">设计研究</p>
+              <p class="description">Design research</p>
+            </div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/service/post/16896/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    <li id="serviceitem_1" class="serviceitem wow"><a href="http://mo004_4097.mo4.line1.uemo.net/service/post/16073/" target="_blank">
+          	<p class="service_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201709/1504869867719.jpg" width="320" height="120" alt="创新战略"/></p>
+            <div class="service_info">
+              <p class="title">创新战略</p>
+              <p class="description">Innovation strategy</p>
+            </div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/service/post/16073/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    <li id="serviceitem_2" class="serviceitem wow"><a href="http://mo004_4097.mo4.line1.uemo.net/service/post/16072/" target="_blank">
+          	<p class="service_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201709/1504876573695.jpg" width="320" height="120" alt="市场化策略"/></p>
+            <div class="service_info">
+              <p class="title">市场化策略</p>
+              <p class="description">挑战想象力，探索可能性，从视听领域全方位衡量产品使用体验</p>
+            </div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/service/post/16072/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    <li id="serviceitem_3" class="serviceitem wow"><a href="http://mo004_4097.mo4.line1.uemo.net/service/post/16071/" target="_blank">
+          	<p class="service_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201709/1504876836732.jpg" width="320" height="120" alt="视觉研究解决方案"/></p>
+            <div class="service_info">
+              <p class="title">视觉研究解决方案</p>
+              <p class="description">通过市场调研、人类学研究、用户及竞品分析...</p>
+            </div>
+            </a>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/service/post/16071/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                  </ul>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <a href="http://mo004_4097.mo4.line1.uemo.net/service/" class="more wow">MORE<i class="fa fa-angle-right"></i></a></div>
+</div>
+<div id="mteam" class="module bgShow" style="background-image:url(http://resources.jsmo.xin/templates/upload/4097/201709/1505115239142.png);">
+    <div class="bgmask"></div>
+  <div class="content layoutslider">
+    <div class="header wow">
+      <p class="title">精英团队</p>
+            <p class="subtitle">TEAM</p>
+      </div>
+    <div class="module-content fw">
+      <div class="wrapper">
+        <ul class="content_list" data-options-sliders="1" data-options-margin="0" data-options-ease="cubic-bezier(0.8,0.2,0.2,1)" data-options-speed="0.8">
+                    <li id="teamitem_0"  class="wow">
+            <div class="header wow" data-wow-delay=".2s"><a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17374/" target="_blank"><img src="http://resources.jsmo.xin/templates/upload/4097/201710/1507602769449.jpg" alt="墨白" width="180" height="180" /></a></div>
+            <div class="summary wow">
+              <p class="title"><a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17374/">墨白</a></p>
+                            <p class="subtitle">Paris, France</p>
+                            <p class="description wow">著名设计师，家用电器和日用杂物设计品牌“±0”的创始人。他曾为多家知名公司诸如苹果、爱普生进行过品牌设计，其作品在欧洲和美国赢得过 ...</p>
+            </div>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17374/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+          </li>
+                    <li id="teamitem_1"  class="wow">
+            <div class="header wow" data-wow-delay=".2s"><a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17375/" target="_blank"><img src="http://resources.jsmo.xin/templates/upload/4097/201709/1505116164251.jpg" alt="雷蒙德·罗维 / David" width="180" height="180" /></a></div>
+            <div class="summary wow">
+              <p class="title"><a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17375/">雷蒙德·罗维 / David</a></p>
+                            <p class="subtitle">联合创始人/CEO/理事会总监</p>
+                            <p class="description wow">多年来，我们一直专注于互联网整合营销传播服务，截止目前我们已经服务过300多个大型客户。不论是品牌官网、企业官网、还是信息应用平台，我们都能提供精确的策划方案和视觉设计方案。</p>
+            </div>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17375/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+          </li>
+                    <li id="teamitem_2"  class="wow">
+            <div class="header wow" data-wow-delay=".2s"><a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17373/" target="_blank"><img src="http://resources.jsmo.xin/templates/upload/4097/201710/1507602704444.jpg" alt="贾蕾" width="180" height="180" /></a></div>
+            <div class="summary wow">
+              <p class="title"><a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17373/">贾蕾</a></p>
+                            <p class="subtitle">WEB Deisgn</p>
+                            <p class="description wow">The world's leading electronic design journal NEWWEBPICK recommended the designer of the electronic magazine (twenty-ninth) China's design industry Youth Award winners and awarded</p>
+            </div>
+            <a href="http://mo004_4097.mo4.line1.uemo.net/team/post/17373/" target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+          </li>
+                  </ul>
+      </div>
+    </div>
+    <div class="clear"></div>
+    <a href="http://mo004_4097.mo4.line1.uemo.net/team/" class="more wow">MORE<i class="fa fa-angle-right"></i></a>
+  </div>
+</div>
+<div id="mpartner" class="module">
+    <div class="bgmask"></div>
+  <div class="content layoutslider">
+    <div class="header wow fw" data-wow-delay=".1s">
+      <p class="title">PARTNER</p>
+            <p class="subtitle">partner</p>
+      </div>
+    <div class="module-content fw">
+      <div class="wrapper">
+        <ul class="content_list" data-options-ease="1" data-options-speed="0.5">
+                    <li id="partneritem_0" class="wow"><a href="https://www.baidu.com/" title="web10"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/4097/201709/1505281537362.png" width="160" height="80" alt="web10"/></p>
+          <p class="par_title">web10</p>
+          
+          </a><a href="https://www.baidu.com/" title="WEB1"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480549861.png" width="160" height="80" alt="WEB1"/></p>
+          <p class="par_title">WEB1</p>
+          
+          </a><a href="https://www.baidu.com/" title="WEB2"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480542599.png" width="160" height="80" alt="WEB2"/></p>
+          <p class="par_title">WEB2</p>
+          
+          </a><a href="https://www.baidu.com/" title="WEB3"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480438794.png" width="160" height="80" alt="WEB3"/></p>
+          <p class="par_title">WEB3</p>
+          
+          </a><a href="https://www.baidu.com/" title="WEB4"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480447370.png" width="160" height="80" alt="WEB4"/></p>
+          <p class="par_title">WEB4</p>
+          
+          </a><a href="https://www.baidu.com/" title="WEB5"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480454468.png" width="160" height="80" alt="WEB5"/></p>
+          <p class="par_title">WEB5</p>
+          
+          </a><a href="https://www.baidu.com/" title="WEB6"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480462918.png" width="160" height="80" alt="WEB6"/></p>
+          <p class="par_title">WEB6</p>
+          
+          </a><a href="https://www.baidu.com/" title="WEB7"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480473397.png" width="160" height="80" alt="WEB7"/></p>
+          <p class="par_title">WEB7</p>
+          
+          </a></li>
+                    <li id="partneritem_8" class="wow"><a href="https://www.baidu.com/" title="WEB8"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480482963.png" width="160" height="80" alt="WEB8"/></p>
+          <p class="par_title">WEB8</p>
+          
+          </a><a href="https://www.baidu.com/" title="WEB9"  target="_blank" >
+          
+          <p class="par_img"><img src="http://resources.jsmo.xin/templates/upload/310/201606/1465480491170.png" width="160" height="80" alt="WEB9"/></p>
+          <p class="par_title">WEB9</p>
+          
+          </a></li>
+                  </ul>
+      </div>
+    </div>
+  </div>
+</div><div id="mcontact" class="module">
+    <div class="bgmask"></div>
+  <div class="content">
+    <div class="header wow fadeInUp fw" data-wow-delay=".1s">
+      <p class="title">C O N T A CT</p>
+            <p class="subtitle">05</p>
+      </div>
+    <div id="contactlist" class="fw">
+      <div id="contactinfo" class="fl wow" data-wow-delay=".2s">
+      
+        <h3 class="ellipsis name">网站建设文化传播有限公司</h3>
+        <p class="ellipsis add"><span>地点：</span>中国地区XX分区5A写字楼8-88室</p>
+        <p class="ellipsis zip"><span>邮编：</span>100000</p>
+        <p class="ellipsis tel"><span>电话：</span>400-888-8888</p>
+                <p class="ellipsis mobile"><span>手机：</span>188-666-5188 / 188-666-51888</p>
+                <p class="ellipsis fax"><span>传真：</span>000-66668888</p>
+                <p class="ellipsis email"><span>邮箱：</span>website@qq.com</p>
+        <div><a class="fl" target="_blank" href="http://weibo.com/web"><i class="fa fa-weibo"></i></a><a class="fl" target="_blank" href="tencent://message/?uin=40080000&Site=uemo&Menu=yes"><i class="fa fa-qq"></i></a> <a id="mpbtn" class="fl" href="http://resources.jsmo.xin/templates/upload/1/201508/1438424052624.jpg"><i class="fa fa-weixin"></i></a></div>
+      </div>
+      <div id="contactform" class="fr wow" data-wow-delay=".2s">
+        <form action="http://mo004_4097.mo4.line1.uemo.net/message/" method="post">
+          <p>
+            <input type="text" class="inputtxt name" name="name" placeholder="姓名" autocomplete="off" />
+          </p>
+          <p>
+            <input type="text" class="inputtxt email" name="email"  placeholder="邮箱"  autocomplete="off"/>
+          </p>
+          <p>
+            <input type="text" class="inputtxt tel" name="tel"  placeholder="电话"  autocomplete="off"/>
+          </p>
+          <p>
+            <textarea class="inputtxt cont" name="content"   placeholder="内容" autocomplete="off"></textarea>
+          </p>
+          <p>
+            <input class="inputsub" type="submit" value="提交" />
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="mindex" data-options-ease="Expo.easeInOut" data-options-speed="1" data-options-sscreen="0"></div>
+</div></div><div id="footer"><p>COPYRIGHT (©) 2017  mo004_4097 - 设计类模板网站. <a class="beian" href="http://www.miitbeian.gov.cn/" style="display:inline; width:auto; color:#8e8e8e" target="_blank"></a></p></div><div id="shares"><a id="sshare"><i class="fa fa-share-alt"></i></a><a href="http://service.weibo.com/share/share.php?appkey=3206975293&" target="_blank" id="sweibo"><i class="fa fa-weibo"></i></a><a href="javascript:;" id="sweixin"><i class="fa fa-weixin"></i></a><a href="javascript:;" id="gotop"><i class="fa fa-angle-up"></i></a></div><div class="fixed" id="fixed_weixin"><div class="fixed-container"><div id="qrcode"></div><p>扫描二维码分享到微信</p></div></div><div id="online_open"><i class="fa fa-comments-o"></i></div><div id="online_lx"><div id="olx_head">在线咨询<i class="fa fa-times fr" id="online_close"></i></div><ul id="olx_qq"><li><a href="tencent://message/?uin=40080000&Site=uelike&Menu=yes"><i class="fa fa-qq"></i>40080000</a></li></ul><div id="olx_tel"><div><i class="fa fa-phone"></i>联系电话</div><p>400-888-8888<br /></p></div></div><div class="hide"><script src="http://s11.cnzz.com/stat.php?id=5935831&web_id=5935831" type="text/javascript"></script></div></body></html>
